@@ -15,7 +15,7 @@ public class RandomGenerator {
         guess = scan.nextInt();
 
 
-
+        // I am gonna leave the rest of this until a later chapter ( control structures )
 
 
 
